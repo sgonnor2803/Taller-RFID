@@ -748,15 +748,14 @@ Este taller proporciona las bases necesarias para comprender y trabajar con tecn
 
 Para dudas, consultas o colaboraciones relacionadas con este taller:
 
-- **Repositorio:** [Incluir enlace al repositorio del grupo]
-- **Instructor:** [Incluir información de contacto si aplica]
-- **Grupo 5:** [Información del grupo]
+- **Repositorio:** https://github.com/sgonnor2803/Taller-RFID-Grupo5
+- **Grupo 5:** Taller de RFID - Material educativo
 
 ---
 
-**Última actualización:** Noviembre 2025  
+**Última actualización:** Noviembre 2024  
 **Versión:** 1.0  
-**Licencia:** [Especificar licencia si aplica]
+**Licencia:** Uso educativo
 
 ---
 

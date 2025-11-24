@@ -182,9 +182,8 @@ El uso indebido de las técnicas descritas puede ser **ilegal**. Siempre:
 
 **Grupo 5** - Taller de RFID
 
-- 📧 Email: [Contacta con el grupo]
-- 💬 Issues: [Abre un issue](https://github.com/sgonnor2803/Taller-RFID-Grupo5/issues)
-- 📖 Wiki: [Consulta la wiki del proyecto](https://github.com/sgonnor2803/Taller-RFID-Grupo5/wiki)
+- 💬 Issues: Abre un issue en este repositorio para preguntas o sugerencias
+- 📖 Documentación: Consulta [TALLER_RFID.md](TALLER_RFID.md) para información completa
 
 ---
 
@@ -208,7 +207,7 @@ Este proyecto está diseñado con fines educativos. El uso de las técnicas y he
 
 <div align="center">
 
-**Última actualización:** Noviembre 2025
+**Última actualización:** Noviembre 2024
 
 Made with ❤️ by Grupo 5
 
