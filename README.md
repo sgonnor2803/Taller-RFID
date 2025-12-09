@@ -1,6 +1,6 @@
-<h1 align="center">Taller RFID Grupo5</h1>
+<h1 align="center">Taller RFID Grupo5
 
-<img align="center" width="320" height="320" alt="Diseño sin título" src="https://github.com/user-attachments/assets/cf25ad42-f3df-46ec-a0d6-db79de6628e3" />
+<img align="center" width="320" height="320" alt="Diseño sin título" src="https://github.com/user-attachments/assets/cf25ad42-f3df-46ec-a0d6-db79de6628e3" /></h1>
 
 ****Autores***: Sergio González, Iván Paúl, Javier Calvillo y Manuel Pérez*
 
