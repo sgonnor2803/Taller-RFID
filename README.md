@@ -15,10 +15,11 @@
 1. [***Introducción***]()
 2. [***Fundamentos de RFID***]()
 3. [***Vías de Vulneración en RFID***]()
-4. [***Demostración: Flipper Zero***]()
-5. [***Taller Práctico con MIFARE***]()
-6. [***Mitigaciones y Buenas Prácticas***]()
-7. [***Conclusiones y Preguntas***]()
+4. [***Talleres Prácticos Explotación MIFARE***]()
+5. [***Medidas Protección RFID***]()
+6. [***Talleres Prácticos Medidas Protección MIFARE***]()
+7. [***Demostración: Flipper Zero***]()
+8. [***Conclusiones y Preguntas***]()
 
 ---
 ## 1. ***Introducción***
@@ -36,20 +37,25 @@
 
 
 ---
-## 4. ***Demostración: Flipper Zero***
+## 4. ***Talleres Prácticos Explotación MIFARE***
 
 
 
 ---
-## 5. ***Taller Práctico con MIFARE***
+## 5. ***Medidas Protección RFID***
 
 
 
 ---
-## 6. ***Mitigaciones y Buenas Prácticas***
+## 6. ***Talleres Prácticos Medidas Protección MIFARE***
 
 
 
 ---
-## 7. ***Conclusiones y Preguntas***
+## 7. ***Demostración: Flipper Zero***
+
+
+
+---
+## 8. ***Conclusiones y Preguntas***
 
