@@ -2,6 +2,8 @@
 
 <p align="center"><img width="320" height="320" alt="Diseño sin título" src="https://github.com/user-attachments/assets/cf25ad42-f3df-46ec-a0d6-db79de6628e3" /></p>
 
+![Amazon]{https://www.amazon.es/bloqueador-rfid/s?k=bloqueador+rfid}
+
 ---
 
 ****Autores***: Sergio González, Iván Paúl, Javier Calvillo y Manuel Pérez*
