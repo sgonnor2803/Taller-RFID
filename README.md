@@ -41,7 +41,35 @@ Este trabajo ha sido elaborado por el **Grupo 5**, integrado por:
 
 La tecnología **RFID** (Identificación por Radiofrecuencia) permite identificar y obtener información de objetos o personas sin necesidad de contacto físico directo. Para ello, utiliza ondas de radio que facilitan la comunicación entre un dispositivo lector y una etiqueta asociada al elemento que se desea identificar.
 
-Un sistema RFID se compone principalmente de tres elementos. El primero es la **etiqueta RFID**, que contiene un pequeño chip y una antena. Esta etiqueta almacena la información que será transmitida. El segundo elemento es el **lector RFID**, encargado de emitir la señal de radio y recibir la respuesta de la etiqueta. Por último, el **sistema de procesamiento**, que interpreta los datos obtenidos y los utiliza según la aplicación correspondiente.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5139a1f0-ed69-4666-8593-6b9c534a4418" alt="image" width="350">
+</p>
+
+---
+### 2.1. ***Etiqueta RFID***
+---
+
+<p align="center">
+<img alt="rfidetiqueta-removebg-preview" src="https://github.com/user-attachments/assets/c2996412-a12f-4722-be6a-66aea3ea33ee" width="350">
+</p>
+
+---
+### 2.2. ***lector RFID***
+---
+
+<p align="center">
+<img alt="rfidlector-removebg-preview" src="https://github.com/user-attachments/assets/b2a8433f-2204-414e-8d73-74328f716194" width="350">
+</p>
+
+---
+### 2.3. ***Sistema de procesamiento***
+---
+
+
+
+---
+### 2.4. ***Tipos y características de los sistemas RFID***
+---
 
 Existen distintos tipos de etiquetas RFID. Las **pasivas** no disponen de batería propia y se alimentan de la energía emitida por el lector, mientras que las **activas** cuentan con una fuente de alimentación interna que les permite un mayor alcance. También existen etiquetas **semipasivas**, que combinan características de ambos tipos.
 
