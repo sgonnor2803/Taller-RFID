@@ -5,7 +5,7 @@
 2. [Material necesario](#material-necesario)
 3. [Procedimiento](#procedimiento)
 4. [Resultados](#resultados)
-5. [Conclusiones](#conclusiones)
+5. [Conclusión](#conclusión)
 
 ---
 ## Objetivo
@@ -67,7 +67,7 @@ cd client
 ./proxmark3 comX
 ```
 
-(Sustituir `comX` por el puerto obtenido en el paso anterior).
+(Sustituir `X` por el puerto obtenido en el paso anterior).
 
 ---
 ### Paso 6: Comprobar el hardware
@@ -87,6 +87,6 @@ Este comando permite verificar que la Proxmark3 es reconocida correctamente y qu
 El entorno ProxSpace queda configurado correctamente y la Proxmark3 es detectada sin errores, mostrando valores adecuados de las antenas.
 
 ---
-## Conclusiones
+## Conclusión
 
 El entorno de trabajo queda listo para continuar con las siguientes prácticas del taller.
