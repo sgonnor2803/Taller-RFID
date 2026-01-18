@@ -12,16 +12,19 @@
 
 1. [***Introducción***](#1-introducción)
 2. [***Practicas Explotación***](#2-practicas-explotación)
-3. [***Practicas Mitigación***](#3-practicas-mitigación)
-4. [***Evaluación de Conocimientos y Repaso del Taller***]()
+3. [***Evaluación de Conocimientos y Repaso del Taller***](#3-evaluación-de-conocimientos-y-repaso-del-taller)
 
 ---
 ## 1. ***Introducción***
 
+Este repositorio recoge las prácticas del Taller de Explotación RFID, donde se documentan los procedimientos y comandos utilizados durante el taller.
 
+El objetivo es entender, de forma práctica, cómo se pueden explotar sistemas RFID: obtener información de tarjetas, extraer claves y clonar llaves de acceso usando Proxmark3. Las medidas de protección se muestran de manera demostrativa durante el taller.
 
 ---
 ## 2. ***Practicas Explotación***
+
+En esta sección se documentan las prácticas del taller, centradas en la explotación de sistemas RFID y el uso de Proxmark3.
 
 ---
 - [***Práctica 1: Preparación del entorno Proxmark***]()
@@ -31,10 +34,8 @@
 - [***Práctica 3: Clonación y prueba de acceso***]()
 
 ---
-## 3. ***Practicas Mitigación***
+## 3. Evaluación de Conocimientos y Repaso del Taller
 
+Para finalizar el taller se realiza una breve evaluación mediante **Kahoot**, utilizada como repaso de los conceptos vistos durante las prácticas.
 
-
----
-## 4. ***Evaluación de Conocimientos y Repaso del Taller***
-
+[***Enlace al Kahoot***]()
