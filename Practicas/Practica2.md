@@ -1,11 +1,14 @@
 <h1 align="center">Práctica 2: Lectura y ataque a una tarjeta RFID</h1>
 
+<p align="center"><img width="301" height="441" alt="image" src="https://github.com/user-attachments/assets/7c0c167b-94be-457d-ae6a-1b6edbfd79aa" /></p>
+
+---
 ## Índice
 1. [Objetivo](#objetivo)
 2. [Material necesario](#material-necesario)
 3. [Procedimiento](#procedimiento)
 4. [Resultados](#resultados)
-5. [Conclusiones](#conclusiones)
+5. [Conclusión](#conclusión)
 
 ---
 ## Objetivo
@@ -72,6 +75,6 @@ Se obtiene información básica y detallada de la tarjeta RFID.
 Tras ejecutar el ataque automatizado, se generan dos archivos con las claves extraídas, que quedan almacenados en la carpeta de ProxSpace.
 
 ---
-## Conclusiones
+## Conclusión
 
 Esta práctica permite comprender cómo es posible identificar una tarjeta RFID y extraer sus claves utilizando herramientas automatizadas.
