@@ -53,7 +53,7 @@ Utilizar el archivo generado en el paso anterior para completar la clonación de
 hf mf restore -f hf-mf-XXXXXXXX.bin
 ```
 
-Sustituir `hf-mf-XXXXXXXX.bin` por el nombre del archivo generado durante el [volcado](#paso-2-realizar-el-volcado-de-la-tarjeta).
+Sustituir `hf-mf-XXXXXXXX.bin` por el nombre del archivo generado durante el [volcado (Paso 2)](#paso-2-realizar-el-volcado-de-la-tarjeta).
 
 ---
 ### Paso 5: Comprobar la cerradura
