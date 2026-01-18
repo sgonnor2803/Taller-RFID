@@ -15,26 +15,37 @@ Preparar el entorno de trabajo con ProxSpace y comprobar que la Proxmark3 funcio
 ## Material necesario
 - Proxmark3
 - Ordenador
-- ProxSpace (archivo ZIP incluido en la carpeta `Recursos/` del repositorio)
+- ProxSpace (archivo ZIP descargable desde Drive)
 
 ---
 ## Procedimiento
 
-### Paso 1: Descomprimir ProxSpace
-Dentro del repositorio se proporciona el archivo ZIP de ProxSpace ([`Recursos/ProxSpace.zip`](../Recursos/ProxSpace.zip)).
-Descomprimir el archivo en el sistema.
+### Paso 1: Descargar y descomprimir ProxSpace
+---
+
+Descargar el archivo ZIP de ProxSpace desde el siguiente enlace:
+
+- [Descargar ProxSpace desde Drive](https://drive.google.com/file/d/1HZorp_ZoIgyFwLCBr50S-buoaHkzL4h4/view?usp=sharing)
+
+Una vez descargado, descomprimir el archivo en el sistema.
 
 ---
 ### Paso 2: Ejecutar ProxSpace
-Acceder a la carpeta descomprimida y ejecutar el archivo `runme64.bat`. 
+---
+
+Acceder a la carpeta descomprimida y ejecutar el archivo `runme64.bat`.  
 Esto abrirá una terminal con el entorno de ProxSpace preparado.
 
 ---
 ### Paso 3: Conectar el Proxmark3
+---
+
 Conectar la Proxmark3 al ordenador mediante el cable USB.
 
 ---
 ### Paso 4: Comprobar detección de la Proxmark3
+---
+
 En la terminal de ProxSpace, entrar en la carpeta `proxmark3/` y ejecutar el siguiente comando para listar los dispositivos conectados:
 
 ```bash
@@ -43,10 +54,12 @@ En la terminal de ProxSpace, entrar en la carpeta `proxmark3/` y ejecutar el sig
 
 Se mostrará un puerto COM (por ejemplo, `COM3`, `COM4`, etc.).
 
-> Nota: si no se muestra ningún puerto, esperar unos segundos hasta que el sistema asigne el dispositivo a un puerto COM.
+> **Nota:** si no se muestra ningún puerto, esperar unos segundos hasta que el sistema asigne el dispositivo a un puerto COM.
 
 ---
 ### Paso 5: Acceder al cliente de Proxmark3
+---
+
 Entrar en la carpeta `client/` y ejecutar el cliente indicando el puerto COM detectado:
 
 ```bash
@@ -58,18 +71,22 @@ cd client
 
 ---
 ### Paso 6: Comprobar el hardware
+---
+
 Una vez dentro del entorno de la Proxmark3, ejecutar el siguiente comando para comprobar el estado del hardware y las antenas:
 
 ```bash
 hw tune
 ```
 
-Este comando permite verificar que la Proxmark3 es reconocido correctamente y que las antenas funcionan correctamente.
+Este comando permite verificar que la Proxmark3 es reconocida correctamente y que las antenas funcionan correctamente.
 
 ---
 ## Resultados
+
 El entorno ProxSpace queda configurado correctamente y la Proxmark3 es detectada sin errores, mostrando valores adecuados de las antenas.
 
 ---
 ## Conclusiones
+
 El entorno de trabajo queda listo para continuar con las siguientes prácticas del taller.

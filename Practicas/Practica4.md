@@ -23,10 +23,14 @@ Realizar la clonación completa de una tarjeta RFID y comprobar si la tarjeta cl
 ## Procedimiento
 
 ### Paso 1: Colocar la tarjeta RFID original
+---
+
 Colocar la tarjeta RFID original sobre la **antena de alta frecuencia (HF)** de la Proxmark3.
 
 ---
 ### Paso 2: Realizar el volcado de la tarjeta
+---
+
 Ejecutar el siguiente comando para realizar un volcado completo de la tarjeta:
 
 ```bash
@@ -37,6 +41,8 @@ Este comando generará un archivo `.bin` con toda la información de la tarjeta,
 
 ---
 ### Paso 3: Colocar la tarjeta RFID preparada
+---
+
 Retirar la tarjeta original y colocar la **tarjeta RFID en blanco preparada en la práctica anterior**, en la que ya se escribió el bloque 0, sobre la antena HF de la Proxmark3.
 
 ---
@@ -51,12 +57,16 @@ Sustituir `hf-mf-XXXXXXXX.bin` por el nombre del archivo generado durante el vol
 
 ---
 ### Paso 5: Comprobar la cerradura
+---
+
 Una vez finalizado el proceso, los participantes pueden ir comprobando si la **tarjeta clonada** abre correctamente la cerradura RFID.
 
 ---
 ## Resultados
+
 La tarjeta preparada reproduce el comportamiento de la tarjeta original y, en caso de éxito, permite abrir la cerradura.
 
 ---
 ## Conclusiones
+
 Esta práctica muestra cómo, tras preparar una tarjeta y clonar completamente su contenido, es posible acceder a un sistema de control de acceso.

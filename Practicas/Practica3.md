@@ -22,10 +22,14 @@ Preparar una tarjeta RFID en blanco borrando su contenido y escribiendo manualme
 ## Procedimiento
 
 ### Paso 1: Colocar la tarjeta RFID en blanco
+---
+
 Colocar la tarjeta RFID en blanco sobre la **antena de alta frecuencia (HF)** de la Proxmark3, situada en la parte superior.
 
 ---
 ### Paso 2: Wipear la tarjeta (Borrado)
+---
+
 Borrar completamente el contenido de la tarjeta en blanco con el siguiente comando:
 
 ```bash
@@ -36,6 +40,8 @@ Este comando deja la tarjeta limpia y lista para la escritura manual.
 
 ---
 ### Paso 3: Obtener los datos del bloque 0
+---
+
 Los datos necesarios para la escritura se obtienen de la **tarjeta original**, utilizando el comando:
 
 ```bash
@@ -48,6 +54,8 @@ Tal y como se comentó en la práctica anterior, se recomienda guardar estos dat
 
 ---
 ### Paso 4: Escribir el bloque 0
+---
+
 Escribir los datos del bloque 0 en la tarjeta en blanco mediante el siguiente comando:
 
 ```bash
@@ -61,6 +69,8 @@ La escritura del bloque 0 es necesaria para que la tarjeta pueda ser reconocida 
 
 ---
 ### Paso 5: Verificar la escritura del bloque 0
+---
+
 Para comprobar que el bloque 0 se ha modificado correctamente, volver a ejecutar el siguiente comando:
 
 ```bash
@@ -71,8 +81,10 @@ Comparar los datos del bloque 0 mostrados con los valores escritos en el paso an
 
 ---
 ## Resultados
+
 La tarjeta RFID queda correctamente wipeada y el bloque 0 se ha modificado con los datos indicados, confirmando que la escritura se ha realizado con éxito.
 
 ---
 ## Conclusiones
+
 Esta práctica permite comprender cómo se puede manipular manualmente la memoria de una tarjeta RFID y verificar los cambios realizados antes de proceder a una clonación completa.

@@ -21,10 +21,14 @@ Obtener información de una tarjeta RFID y extraer sus claves mediante el uso de
 ## Procedimiento
 
 ### Paso 1: Colocar la tarjeta RFID
+---
+
 Colocar la tarjeta RFID **sobre la antena de alta frecuencia (HF)** de la Proxmark3.
 
 ---
 ### Paso 2: Identificar la tarjeta
+---
+
 Ejecutar el siguiente comando para identificar el tipo de tarjeta y obtener información básica:
 
 ```bash
@@ -35,6 +39,8 @@ En la salida del comando se muestra información general de la tarjeta y se indi
 
 ---
 ### Paso 3: Obtener información detallada
+---
+
 Según la información obtenida en el paso anterior, ejecutar el siguiente comando para extraer información más detallada de la tarjeta:
 
 ```bash
@@ -47,6 +53,8 @@ Este comando permite conocer el tipo de tarjeta, su estructura y otros datos rel
 
 ---
 ### Paso 4: Extraer las claves de la tarjeta
+---
+
 Una vez identificada la tarjeta, ejecutar el siguiente comando para intentar obtener las claves:
 
 ```bash
@@ -59,9 +67,11 @@ Durante el proceso se realizará un ataque automatizado y, si tiene éxito, se g
 
 ---
 ## Resultados
+
 Se obtiene información básica y detallada de la tarjeta RFID.
 Tras ejecutar el ataque automatizado, se generan dos archivos con las claves extraídas, que quedan almacenados en la carpeta de ProxSpace.
 
 ---
 ## Conclusiones
+
 Esta práctica permite comprender cómo es posible identificar una tarjeta RFID y extraer sus claves utilizando herramientas automatizadas.
