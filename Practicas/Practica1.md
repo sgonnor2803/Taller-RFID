@@ -1,5 +1,8 @@
 <h1 align="center">Práctica 1: Preparación del entorno ProxSpace</h1>
 
+<p align="center"><img width="301" height="441" alt="image" src="https://github.com/user-attachments/assets/406bdad5-9c9a-4c70-9502-030cfb6c5778" /></p>
+
+---
 ## Índice
 1. [Objetivo](#objetivo)
 2. [Material necesario](#material-necesario)
