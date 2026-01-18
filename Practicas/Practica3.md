@@ -5,7 +5,7 @@
 2. [Material necesario](#material-necesario)
 3. [Procedimiento](#procedimiento)
 4. [Resultados](#resultados)
-5. [Conclusiones](#conclusiones)
+5. [Conclusión](#conclusión)
 
 ---
 ## Objetivo
@@ -50,7 +50,7 @@ hf mf info
 
 En la salida de este comando se muestran los datos correspondientes al **bloque 0**.  
 
-Tal y como se comentó en la práctica anterior, se recomienda guardar estos datos, ya que se utilizarán en el siguiente paso.
+> Tal y como se comentó en la práctica anterior, se recomienda guardar estos datos, ya que se utilizarán en el siguiente paso.
 
 ---
 ### Paso 4: Escribir el bloque 0
@@ -82,9 +82,9 @@ Comparar los datos del bloque 0 mostrados con los valores escritos en el paso an
 ---
 ## Resultados
 
-La tarjeta RFID queda correctamente wipeada y el bloque 0 se ha modificado con los datos indicados, confirmando que la escritura se ha realizado con éxito.
+La tarjeta RFID queda correctamente wipeada (borrada) y el bloque 0 se ha modificado con los datos indicados, confirmando que la escritura se ha realizado con éxito.
 
 ---
-## Conclusiones
+## Conclusión
 
 Esta práctica permite comprender cómo se puede manipular manualmente la memoria de una tarjeta RFID y verificar los cambios realizados antes de proceder a una clonación completa.
