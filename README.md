@@ -27,11 +27,13 @@ El objetivo es entender, de forma práctica, cómo se pueden explotar sistemas R
 En esta sección se documentan las prácticas del taller, centradas en la explotación de sistemas RFID y el uso de Proxmark3.
 
 ---
-- [***Práctica 1: Preparación del entorno Proxmark***]()
+- [***Práctica 1: Preparación del entorno ProxSpace***](./Practicas/Practica1.md)
 ---
-- [***Práctica 2: Lectura y ataque a una tarjeta RFID***]()
+- [***Práctica 2: Lectura y ataque a una tarjeta RFID***](./Practicas/Practica2.md)
 ---
-- [***Práctica 3: Clonación y prueba de acceso***]()
+- [***Práctica 3: Preparación y escritura de bloques en una tarjeta RFID***](./Practicas/Practica3.md)
+---
+- [***Práctica 4: Clonación de una tarjeta RFID y comprobación de acceso***](./Practicas/Practica4.md)
 
 ---
 ## 3. Evaluación de Conocimientos y Repaso del Taller
