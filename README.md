@@ -1,6 +1,6 @@
 <h1 align="center">Taller - Explotación RFID</h1>
 
-<p align="center"><img width="420" height="420" alt="Gemini_Generated_Image_1wjfi61wjfi61wjf (1)-modified" src="https://github.com/user-attachments/assets/c70a19fa-2a5a-44ed-9d4d-c0ec5e2666ed" /></p>
+<p align="center"><img width="300" height="300" alt="Gemini_Generated_Image_1wjfi61wjfi61wjf (1)-modified" src="https://github.com/user-attachments/assets/c70a19fa-2a5a-44ed-9d4d-c0ec5e2666ed" /></p>
 
 ---
 
