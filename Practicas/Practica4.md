@@ -5,7 +5,7 @@
 2. [Material necesario](#material-necesario)
 3. [Procedimiento](#procedimiento)
 4. [Resultados](#resultados)
-5. [Conclusiones](#conclusiones)
+5. [Conclusión](#conclusión)
 
 ---
 ## Objetivo
@@ -15,7 +15,7 @@ Realizar la clonación completa de una tarjeta RFID y comprobar si la tarjeta cl
 ## Material necesario
 - Proxmark3
 - Tarjeta RFID original
-- Tarjeta RFID en blanco **preparada en la práctica anterior**
+- Tarjeta RFID en blanco *(preparada en la práctica anterior)*
 - Ordenador con ProxSpace configurado
 - Cerradura RFID
 
@@ -53,7 +53,7 @@ Utilizar el archivo generado en el paso anterior para completar la clonación de
 hf mf restore -f hf-mf-XXXXXXXX.bin
 ```
 
-Sustituir `hf-mf-XXXXXXXX.bin` por el nombre del archivo generado durante el volcado.
+Sustituir `hf-mf-XXXXXXXX.bin` por el nombre del archivo generado durante el [volcado](#paso-2-realizar-el-volcado-de-la-tarjeta).
 
 ---
 ### Paso 5: Comprobar la cerradura
@@ -67,6 +67,6 @@ Una vez finalizado el proceso, los participantes pueden ir comprobando si la **t
 La tarjeta preparada reproduce el comportamiento de la tarjeta original y, en caso de éxito, permite abrir la cerradura.
 
 ---
-## Conclusiones
+## Conclusión
 
 Esta práctica muestra cómo, tras preparar una tarjeta y clonar completamente su contenido, es posible acceder a un sistema de control de acceso.
