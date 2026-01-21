@@ -47,7 +47,7 @@ Este comando deja la tarjeta limpia y lista para la escritura manual.
 ### Paso 3: Obtener los datos del bloque 0
 ---
 
-Los datos necesarios para la escritura se obtienen de la **tarjeta original**, utilizando el comando:
+Los datos necesarios para la escritura se obtienen de la **tarjeta original**, utilizando el siguiente comando:
 
 ```bash
 hf mf info
@@ -57,7 +57,7 @@ hf mf info
 
 En la salida de este comando se muestran los datos correspondientes al **bloque 0**. 
 
-> Tal y como se comentó en la práctica anterior, se recomienda guardar estos datos, ya que se utilizarán en el siguiente paso.
+> Tal y como se comentó en la práctica anterior, se recomienda guardar ese valor, ya que se utilizará en el siguiente paso.
 
 ---
 ### Paso 4: Escribir el bloque 0
