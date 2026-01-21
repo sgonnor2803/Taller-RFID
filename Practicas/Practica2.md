@@ -19,7 +19,7 @@ Obtener información de una tarjeta RFID y extraer sus claves mediante el uso de
 ## Material necesario
 - Proxmark3
 - Tarjeta RFID
-- Ordenador con ProxSpace configurado
+- Ordenador con el entorno de Proxmark3 correctamente configurado
 
 ---
 ## Procedimiento
@@ -39,6 +39,8 @@ Ejecutar el siguiente comando para identificar el tipo de tarjeta y obtener info
 hf search
 ```
 
+<img width="1016" height="510" alt="image" src="https://github.com/user-attachments/assets/8384ebe8-7d77-40e5-9b7c-b123af984fe6" />
+
 En la salida del comando se muestra información general de la tarjeta y se indica la posibilidad de obtener información más detallada.
 
 ---
@@ -50,6 +52,8 @@ Según la información obtenida en el paso anterior, ejecutar el siguiente coman
 ```bash
 hf mf info
 ```
+
+<img width="1015" height="607" alt="image" src="https://github.com/user-attachments/assets/c25ab510-7afd-438d-9ef3-afdb26324edf" />
 
 Este comando permite conocer el tipo de tarjeta, su estructura y otros datos relevantes.
 
@@ -65,6 +69,8 @@ Una vez identificada la tarjeta, ejecutar el siguiente comando para intentar obt
 hf mf autopwn
 ```
 
+<img width="1114" height="967" alt="image" src="https://github.com/user-attachments/assets/6f30a411-05a6-40d2-82ed-0c52cdaf6db7" />
+
 Durante el proceso se realizará un ataque automatizado y, si tiene éxito, se generarán archivos con las claves obtenidas.
 
 > ⚠️ Importante: no mover la tarjeta RFID durante el proceso, ya que podría provocar fallos en la obtención de las claves.
@@ -73,7 +79,7 @@ Durante el proceso se realizará un ataque automatizado y, si tiene éxito, se g
 ## Resultados
 
 Se obtiene información básica y detallada de la tarjeta RFID.
-Tras ejecutar el ataque automatizado, se generan dos archivos con las claves extraídas, que quedan almacenados en la carpeta de ProxSpace.
+Tras ejecutar el ataque automatizado, se generan dos archivos con las claves extraídas, que quedan almacenados en la carpeta `Client/`.
 
 ---
 ## Conclusión
