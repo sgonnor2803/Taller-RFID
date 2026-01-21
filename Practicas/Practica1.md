@@ -73,7 +73,7 @@ Este comando permite verificar que la Proxmark3 es reconocida correctamente y qu
 ---
 ## Resultados
 
-El entorno ProxSpace queda configurado correctamente y la Proxmark3 es detectada sin errores, mostrando valores adecuados en las mediciones de las antenas.
+El entorno queda configurado correctamente y la Proxmark3 es detectada sin errores, mostrando valores adecuados en las mediciones de las antenas.
 
 ---
 ## Conclusión
