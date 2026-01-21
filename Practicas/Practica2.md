@@ -1,6 +1,7 @@
 <h1 align="center">Práctica 2: Lectura y ataque a una tarjeta RFID</h1>
 
-<p align="center"><img width="301" height="441" alt="image" src="https://github.com/user-attachments/assets/7c0c167b-94be-457d-ae6a-1b6edbfd79aa" /></p>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/7b9b8c1c-e7fc-4b33-8a08-c57fcfdb589d" />
+
 
 ---
 ## Índice
