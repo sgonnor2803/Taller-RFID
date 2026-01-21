@@ -1,6 +1,6 @@
 <h1 align="center">Práctica 3: Preparación y escritura de bloques en una tarjeta RFID</h1>
 
-<p align="center"><img width="301" height="441" alt="image" src="https://github.com/user-attachments/assets/a7419906-d02a-45f1-9ea6-436f69064eaf" /></p>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/235a864e-1ac4-47f5-bc70-364bb2fa154d" />
 
 ---
 ## Índice
