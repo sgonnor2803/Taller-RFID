@@ -39,5 +39,3 @@ En esta sección se documentan las prácticas del taller, centradas en la explot
 ## 3. Evaluación de Conocimientos y Repaso del Taller
 
 Para finalizar el taller se realiza una breve evaluación mediante **Kahoot**, utilizada como repaso de los conceptos vistos durante las prácticas.
-
-[***Enlace al Kahoot***]()
