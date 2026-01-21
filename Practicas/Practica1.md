@@ -1,6 +1,6 @@
 <h1 align="center">Práctica 1: Preparación del entorno ProxSpace</h1>
 
-<p align="center"><img width="301" height="441" alt="image" src="https://github.com/user-attachments/assets/406bdad5-9c9a-4c70-9502-030cfb6c5778" /></p>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/1c5557ff-3ad0-4ff0-92e4-02a6c495556f" />
 
 ---
 ## Índice
