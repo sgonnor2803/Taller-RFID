@@ -1,6 +1,6 @@
 <h1 align="center">Práctica 4: Clonación completa de una tarjeta RFID y comprobación de acceso</h1>
 
-<p align="center"><img width="301" height="441" alt="image" src="https://github.com/user-attachments/assets/461debcb-d373-4ca6-9cd3-28292de55cbb" /></p>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/19931792-d8af-47d8-8b16-b9a14a8bccb8" />
 
 ---
 ## Índice
