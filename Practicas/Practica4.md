@@ -18,8 +18,8 @@ Realizar la clonación completa de una tarjeta RFID y comprobar si la tarjeta cl
 ## Material necesario
 - Proxmark3
 - Tarjeta RFID original
-- Tarjeta RFID en blanco *(preparada en la práctica anterior)*
-- Ordenador con ProxSpace configurado
+- Tarjeta RFID Magic *(preparada en la práctica anterior)*
+- Ordenador con el entorno de Proxmark3 correctamente configurado
 - Cerradura RFID
 
 ---
@@ -40,21 +40,26 @@ Ejecutar el siguiente comando para realizar un volcado completo de la tarjeta:
 hf mf dump
 ```
 
-Este comando generará un archivo `.bin` con toda la información de la tarjeta, que se guardará automáticamente en la carpeta de ProxSpace.
+<img width="1114" height="741" alt="image" src="https://github.com/user-attachments/assets/393cfd80-987a-4cfd-9f35-35cfae53e093" />
+
+Este comando generará un archivo `.bin` con toda la información de la tarjeta, que se guardará automáticamente en la carpeta `Client/`.
 
 ---
-### Paso 3: Colocar la tarjeta RFID preparada
+### Paso 3: Colocar la tarjeta RFID Magic
 ---
 
-Retirar la tarjeta original y colocar la **tarjeta RFID en blanco preparada en la práctica anterior**, en la que ya se escribió el bloque 0, sobre la antena HF de la Proxmark3.
+Retirar la tarjeta original y colocar la **tarjeta RFID Magic preparada en la práctica anterior**, en la que ya se escribió el bloque 0, sobre la antena HF de la Proxmark3.
 
 ---
-### Paso 4: Restaurar la información en la tarjeta preparada
+### Paso 4: Restaurar la información en la tarjeta RFID Magic
+
 Utilizar el archivo generado en el paso anterior para completar la clonación de la tarjeta:
 
 ```bash
 hf mf restore -f hf-mf-XXXXXXXX.bin
 ```
+
+<img width="1114" height="550" alt="image" src="https://github.com/user-attachments/assets/49887212-bf60-459b-a613-f16ba43f16bd" />
 
 Sustituir `hf-mf-XXXXXXXX.bin` por el nombre del archivo generado durante el [volcado (Paso 2)](#paso-2-realizar-el-volcado-de-la-tarjeta).
 
@@ -62,7 +67,7 @@ Sustituir `hf-mf-XXXXXXXX.bin` por el nombre del archivo generado durante el [vo
 ### Paso 5: Comprobar la cerradura
 ---
 
-Una vez finalizado el proceso, los participantes pueden ir comprobando si la **tarjeta clonada** abre correctamente la cerradura RFID.
+Una vez finalizado el proceso, los participantes pueden ir comprobando si la **tarjeta Magic clonada** abre correctamente la cerradura RFID.
 
 ---
 ## Resultados
