@@ -85,6 +85,20 @@ hw tune
 Este comando permite verificar que la Proxmark3 es reconocida correctamente y que las antenas funcionan correctamente.
 
 ---
+### Paso 7: Configurar las rutas de guardado (trace y dump)
+---
+
+Una vez dentro del entorno de la Proxmark3, ejecutar los siguientes comandos para definir las carpetas donde se guardarán las trazas y los volcados generados durante el uso del dispositivo:
+
+> **Nota:** sustituir **C:\Users\.....** por la ruta de la carpeta ProxSpace.
+
+```bash
+prefs set savepaths --trace C:\Users\.....
+prefs set savepaths --dump  C:\Users\.....
+
+````
+
+---
 ## Resultados
 
 El entorno ProxSpace queda configurado correctamente y la Proxmark3 es detectada sin errores, mostrando valores adecuados de las antenas.
